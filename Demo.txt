@@ -1,6 +1,13 @@
+
+ nasshea
+
 king joe is learning
 
 DevOps with Git
+<<<<<<< HEAD
 
 
 thee
+=======
+the madnes of Git
+>>>>>>> c75951b (commit from repo B)
